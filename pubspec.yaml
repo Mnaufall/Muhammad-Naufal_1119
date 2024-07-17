@@ -1,0 +1,60 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  dio: ^5.5.0+1
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/images_1.jpeg
+    - assets/vectors/subtract_1_x2.svg
+    - assets/vectors/battery_2_x2.svg
+    - assets/vectors/wifi_4_x2.svg
+    - assets/vectors/cellular_connection_4_x2.svg
+    - assets/images/rectangle_2.png
+    - assets/vectors/vector_21_x2.svg
+    - assets/vectors/vector_1_x2.svg
+    - assets/vectors/wifi_5_x2.svg
+    - assets/vectors/vector_35_x2.svg
+    - assets/vectors/vector_32_x2.svg
+    - assets/vectors/vector_34_x2.svg
+    - assets/vectors/vector_3_x2.svg
+    - assets/vectors/vector_33_x2.svg
+    - assets/vectors/vector_x2.svg
+    - assets/vectors/battery_1_x2.svg
+    - assets/vectors/vector_2_x2.svg
+    - assets/vectors/vector_36_x2.svg
+    - assets/vectors/vector_31_x2.svg
+    - assets/vectors/vector_1_x2.svg
+    - assets/vectors/cellular_connection_x2.svg
+    - assets/vectors/wifi_1_x2.svg
+    - assets/vectors/battery_5_x2.svg
+    - assets/vectors/cellular_connection_2_x2.svg
+    - assets/vectors/icondownload_x2.svg
+    - assets/images/images_1.jpeg
+    - assets/vectors/wifi_x2.svg
+    - assets/vectors/subtract_x2.svg
+    - assets/vectors/battery_4_x2.svg
+    - assets/vectors/cellular_connection_1_x2.svg
+    - assets/images/images_1.jpeg
+    - assets/vectors/battery_x2.svg
+    - assets/vectors/cellular_connection_3_x2.svg
+    - assets/vectors/wifi_3_x2.svg
+    - assets/vectors/subtract_2_x2.svg
